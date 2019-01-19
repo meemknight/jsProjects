@@ -2,5 +2,4 @@
 ## [Step IT Academy](https://itstep.ro/), Bucharest 
 Trainer: @Dragos Dehelean
 **Studenti**:
-* [Proiectul cel mai tare din lume](https://github.com/Lorena4/JavaScript-Projects) 
-* [Al doilea proiect](https://github.com/meemknight/jsProjects)
+* [ShoppingList](https://github.com/Lorena4/JavaScript-Projects) 
