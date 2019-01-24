@@ -4,3 +4,4 @@ Trainer: @Dragos Dehelean
 **Studenti**:
 * [ShoppingList](https://github.com/meemknight/jsProjects/tree/master/shoppingList) 
 * [Dog Finder](https://github.com/meemknight/jsDogFinder)
+* [SlideShow](https://github.com/meemknight/jsSlideShow)
