@@ -2,10 +2,10 @@
 ## [Step IT Academy](https://itstep.ro/), Bucharest 
 Trainer: @Dragos Dehelean
 **Studenti**:
-* [ShoppingList](https://github.com/meemknight/jsProjects/tree/master/shoppingList) 
-* [Live example](https://meemknight.github.io/jsSlideShow)
+* [ShoppingList](https://github.com/meemknight/jsShoppingList) 
+* [Live example]()
 
 * [Dog Finder](https://github.com/meemknight/jsDogFinder)
 * [Live example](https://meemknight.github.io/jsDogFinder/.)
 
-* [SlideShow](https://github.com/meemknight/jsSlideShow)
+* [SlideShow](https://github.com/meemknight/jsSlideShow) * [Live example](https://meemknight.github.io/jsSlideShow)
